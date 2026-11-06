@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem "db-egress-canary",
+    git: "https://github.com/Hemanshu-codeant/dependabot-egress-upstream-20261106180017.git",
+    branch: "main"

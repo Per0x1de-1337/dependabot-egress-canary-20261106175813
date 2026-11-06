@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/Hemanshu-codeant/dependabot-egress-upstream-20261106180017.git
+  revision: 59d4fc1cb9a47e9d549a03337b7d2672ea9e7c18
+  branch: main
+  specs:
+    db-egress-canary (2.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  db-egress-canary!
+
+BUNDLED WITH
+   2.7.2

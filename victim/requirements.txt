@@ -1,1 +1,2 @@
-db-egress-canary @ git+https://github.com/Hemanshu-codeant/dependabot-egress-upstream-20261106180017.git@v1.0.0
+--find-links https://raw.githubusercontent.com/Hemanshu-codeant/dependabot-egress-upstream-20261106180017/main/simple/db-egress-canary/index.html
+db-egress-canary==1.0.0

@@ -4,6 +4,6 @@ updates:
     directory: /bundler
     schedule:
       interval: daily
-      time: "04:25"
+      time: "04:28"
       timezone: Asia/Kolkata
     open-pull-requests-limit: 1

